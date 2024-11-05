@@ -4,9 +4,15 @@ The BMS is designed with the end user in mind, prioritizing ease of use and acce
  
  Objectives of Book Management System:
     The primary objectives of the Book Management System are as follows:
+    
       •	Streamlined Operations: To facilitate the efficient management of book records by automating processes that traditionally require extensive manual effort, thereby allowing staff to focus on higher-value activities.
+      
       •	User-Friendly Interface: To provide a straightforward and intuitive user interface that minimizes the learning curve for both administrators and end users, ensuring that all functionalities are easily accessible.
+      
       •	Role-Based Functionality: To implement a system that accommodates different user roles, such as administrators who manage the system and regular users who search for and view books. This enhances security and ensures that users have access to appropriate features based on their roles.
+      
       •	Enhanced Search Capabilities: To offer advanced search functionalities that allow users to quickly locate books based on various parameters, reducing time spent searching through physical or less organized digital inventories.
+     
       •	Data Integrity and Security: To maintain accurate and secure records of all book-related data through a reliable database management system (MySQL), ensuring that sensitive information is protected and that data remains consistent and valid.
+      
       •	Scalability: To build a system that can grow and adapt to the needs of users, allowing for the addition of new features and functionalities as the organization expands or as user needs evolve.
