@@ -16,3 +16,6 @@ The BMS is designed with the end user in mind, prioritizing ease of use and acce
       •	Data Integrity and Security: To maintain accurate and secure records of all book-related data through a reliable database management system (MySQL), ensuring that sensitive information is protected and that data remains consistent and valid.
       
       •	Scalability: To build a system that can grow and adapt to the needs of users, allowing for the addition of new features and functionalities as the organization expands or as user needs evolve.
+![](OUTPUT1.png)
+![](OUTPUT2.png)
+![](OUTPUT3.png)
